@@ -13,6 +13,11 @@ For inquiries about our Solana trading tools and services, please reach out to u
    - You can contact us through this bot's associated Telegram channel
    - Share your project requirements and we'll get back to you
 
+## Payment Information
+
+For paid services, we accept payments in SOL at this address:
+- Solana Wallet: 7xKXtg2CW87d97TXJSDpbD26a89hM3xaUfebrxh4BKn2
+
 ## What to Include in Your Inquiry
 
 When reaching out, please provide:

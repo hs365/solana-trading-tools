@@ -37,4 +37,5 @@ We offer competitive pricing for our development services. Contact us for a quot
 
 ## Payment Methods
 
-We accept payments in various cryptocurrencies. Contact us for our current wallet addresses.
+We accept payments in SOL at this address:
+- Solana Wallet: 7xKXtg2CW87d97TXJSDpbD26a89hM3xaUfebrxh4BKn2
