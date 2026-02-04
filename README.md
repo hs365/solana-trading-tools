@@ -8,6 +8,7 @@ Professional suite of tools for Solana token analysis and trading automation. De
 2. **Real-time Market Analyzer** - Provides comprehensive market analysis and trends
 3. **Custom Trading Signal Generator** - Generates actionable trading signals based on multiple indicators
 4. **Data Collection Suite** - Comprehensive tools for gathering and processing market data
+5. **Advanced Solana Scanner** - Unified tool combining all scanning strategies for maximum efficiency
 
 ## Key Features
 
@@ -16,6 +17,7 @@ Professional suite of tools for Solana token analysis and trading automation. De
 - Automated opportunity identification
 - Historical data analysis and visualization
 - Integration-ready for trading bots
+- Multi-criteria scanning for optimal results
 
 ## Professional Services
 
@@ -35,9 +37,10 @@ npm install
 ## Usage
 
 ```bash
-node scan_fresh_dogs.js  # Scan for new emerging tokens
-node api_scan_solana.js  # Get real-time market data
-node scan_alpha_gems.js  # Find potential alpha opportunities
+node scan_fresh_dogs.js        # Scan for new emerging tokens
+node api_scan_solana.js        # Get real-time market data
+node scan_alpha_gems.js        # Find potential alpha opportunities
+node advanced_solana_scanner.js # Unified scanning tool with all strategies
 ```
 
 ## Professional Support Available
